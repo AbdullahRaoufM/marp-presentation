@@ -436,6 +436,3 @@ Trying to serve
 ---
 ![Test Image](../images/1.jpeg)
 
----
-
-
