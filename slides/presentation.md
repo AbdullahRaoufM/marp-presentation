@@ -434,7 +434,7 @@ Trying to serve
 </section>
 
 ---
-![Test Image](../images/.png)
+![Test Image](../images/1.jpeg)
 
 ---
 
